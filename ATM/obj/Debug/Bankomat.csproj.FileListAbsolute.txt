@@ -1,0 +1,29 @@
+E:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+E:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+E:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+E:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
+E:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.Form1.resources
+E:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.Properties.Resources.resources
+E:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.GenerateResource.Cache
+E:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+E:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.Properties.Resources.resources
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.GenerateResource.cache
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+F:\Algorytmy i Złożoność (C#)\Zjazd 2\Bankomat\Bankomat\obj\Debug\Bankomat.Bankomat.resources
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\obj\Debug\Bankomat.Bankomat.resources
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\obj\Debug\Bankomat.Properties.Resources.resources
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.GenerateResource.cache
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+E:\Admin\Pulpit\Programowanie\Bankomat\Bankomat\obj\Debug\Bankomat.pdb

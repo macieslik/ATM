@@ -1,0 +1,10 @@
+E:\Admin\Pulpit\Programowanie\ATM\ATM\bin\Debug\ATM.exe.config
+E:\Admin\Pulpit\Programowanie\ATM\ATM\bin\Debug\ATM.exe
+E:\Admin\Pulpit\Programowanie\ATM\ATM\bin\Debug\ATM.pdb
+E:\Admin\Pulpit\Programowanie\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+E:\Admin\Pulpit\Programowanie\ATM\ATM\obj\Debug\ATM.ATM.resources
+E:\Admin\Pulpit\Programowanie\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+E:\Admin\Pulpit\Programowanie\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+E:\Admin\Pulpit\Programowanie\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\Admin\Pulpit\Programowanie\ATM\ATM\obj\Debug\ATM.exe
+E:\Admin\Pulpit\Programowanie\ATM\ATM\obj\Debug\ATM.pdb
